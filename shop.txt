@@ -1,3 +1,4 @@
 this is first shop
 aaaaaaaa
 bbbbbbbbbbb
+bug已修复完成
