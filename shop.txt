@@ -1,4 +1,10 @@
 this is first shop
 aaaaaaaa
 bbbbbbbbbbb
+<<<<<<< HEAD
 bug已修复完成
+=======
+这个是在dev上面修改的
+在dev上面开发
+dev上面新功能开发完毕
+>>>>>>> dev
